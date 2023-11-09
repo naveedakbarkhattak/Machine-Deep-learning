@@ -1,2 +1,2 @@
 # Machine-learning
-All type of Machine learning codes
+All type of Machine learning and Deep learning codes
